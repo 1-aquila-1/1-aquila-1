@@ -1,12 +1,15 @@
-### Olá 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/aquilla-tavares-67604bb7/)
 
+### Olá 👋
 
 **Bem vindo** ao meu ✨repositório de projetos✨
 
 
+
+
 - 🔭 Atualmente trabalho com Java, BPEL e Service Bus. Tecnologia ligada ao Oracle SOA Suite
 - 🌱 Atualmente estou aprendendo Python, Machine Learning e analise de dados
-- A partir desta data **05/05/2021** meu github está sendo atualizado diariamente com as tecnologias que dominio ou estou estudando, falta atualizar os repositórios relacionado com Java, Spring Boot, Analise de dados, python, service bus e BPEL.
+- A partir deste dia (**05/05/2021**), o meu github está sendo atualizado diariamente com as tecnologias que dominio ou estou estudando.
 
 Tecnologia
 =================
