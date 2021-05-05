@@ -11,15 +11,15 @@
 Tecnologia
 =================
 <!--ts-->
-  * [Python](#remote-files)
-  * [Marchine Learning](#pre-requisitos)
-  * [Power BI](#local-files)
-  * [Django REST framework](#multiple-files)
-  * [Java](#pre-requisitos)
-  * [Spring Boot](#local-files)
-  * [BPEL](#local-files)
-  * [Service Bus](#local-files)
-  * [SQL](#combo)
+  * [Python](#python)
+  * [Marchine Learning](https://github.com/1-aquila-1/machine-learning)
+  * [Power BI](#power-bi)
+  * [Django REST framework](#django-rf)
+  * [Java](#java)
+  * [Spring Boot](#spring-boot)
+  * [BPEL](#bpel)
+  * [Service Bus](#service-bus)
+  * [SQL](#sql)
 <!--te-->
 
 <!--
