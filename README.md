@@ -8,7 +8,7 @@
 
 
 - 🔭 Atualmente trabalho com Java, BPEL e Service Bus. Tecnologia ligada ao Oracle SOA Suite
-- 🌱 Atualmente estou aprendendo Python, Machine Learning e analise de dados
+- 🌱 Conhecimento em construção: Python, Machine Learning e analise de dados
 - A partir deste dia (**05/05/2021**), o meu github está sendo atualizado diariamente com as tecnologias que dominio ou estou estudando.
 
 Tecnologia
@@ -16,8 +16,9 @@ Tecnologia
 <!--ts-->
   * [Python](#python)
   * [Marchine Learning](https://github.com/1-aquila-1/machine-learning)
-  * [Power BI](#power-bi)
+  <!--* [Power BI](#power-bi)
   * [Django REST framework](#django-rf)
+  -->
   * [Java](#java)
   * [Spring Boot](#spring-boot)
   * [BPEL](#bpel)
