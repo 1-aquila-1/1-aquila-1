@@ -19,14 +19,13 @@ Tecnologia
   * [BPEL](#bpel)
   * [Service Bus](#service-bus)
   * [SQL](#sql)
-
   * [Python](https://github.com/1-aquila-1/python)
   * [Marchine Learning](https://github.com/1-aquila-1/machine-learning)
+<!--te-->
 
   <!--* [Power BI](#power-bi)
   * [Django REST framework](#django-rf)
   -->
-<!--te-->
 
 <!--
 - 👯 I’m looking to collaborate on ...
