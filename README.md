@@ -8,21 +8,27 @@
 
 
 - 🔭 Atualmente trabalho com Java, BPEL e Service Bus. Tecnologia ligada ao Oracle SOA Suite para construção de aplicação na Arquitetura Orientada a Serviços (SOA)
-- 🌱 Habilidades em construção: Python, Machine Learning e analise de dados
-
+- 🌱 Habilidade em contrução: Docker, kubernetes, OpenShift
+- <!--
+- Habilidades em construção: Python, Machine Learning e analise de dados
+-->
 Tecnologia
 =================
 <!--ts-->
   * [Java](#java)
   * [Spring Boot](https://github.com/1-aquila-1/spring-boot)
+  * [Kubernetes] (#kubernetes)
+  * [Docker] (#docker)
+  * [OpenShift] (#openshift)
   * [BPEL](#bpel)
   * [Service Bus](#service-bus)
   * [SQL](https://github.com/1-aquila-1/sql)
   * [Python](https://github.com/1-aquila-1/python)
-  * [Marchine Learning](https://github.com/1-aquila-1/machine-learning)
 <!--te-->
 
   <!--* [Power BI](#power-bi)
+  
+  * [Marchine Learning](https://github.com/1-aquila-1/machine-learning)
   * [Django REST framework](#django-rf)
   -->
 
