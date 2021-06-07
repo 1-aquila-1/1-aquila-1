@@ -17,9 +17,7 @@ Tecnologia
 <!--ts-->
   * [Java](#java)
   * [Spring Boot](https://github.com/1-aquila-1/spring-boot)
-  * [Kubernetes] (#kubernetes)
-  * [Docker](#docker)
-  * [OpenShift](#openshift)
+  * [OpenShift](https://github.com/1-aquila-1/openshift)
   * [BPEL](#bpel)
   * [Service Bus](#service-bus)
   * [SQL](https://github.com/1-aquila-1/sql)
