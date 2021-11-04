@@ -9,7 +9,7 @@
 
 - 🔭 Atualmente trabalho com Java, BPEL e Service Bus. Tecnologia ligada ao Oracle SOA Suite para construção de aplicação na Arquitetura Orientada a Serviços (SOA)
 - 🌱 Habilidade em contrução: Docker, kubernetes, Amazon EKS.
-- <!--
+<!--
 - Habilidades em construção: Python, Machine Learning e analise de dados
 -->
 Tecnologia
@@ -18,6 +18,7 @@ Tecnologia
   * [Java](#java)
   * [Spring Boot](https://github.com/1-aquila-1/spring-boot)
   * [Kubernetes](https://github.com/1-aquila-1/kubernetes)
+  * [Apache Kafka](https://github.com/1-aquila-1/apache-kafka)
   * [BPEL](#bpel)
   * [Service Bus](https://github.com/1-aquila-1/service-bus)
   * [SQL](https://github.com/1-aquila-1/sql)
