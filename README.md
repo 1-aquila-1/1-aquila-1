@@ -28,7 +28,7 @@ Fundamento de Front End
 =================
 <!--ts-->
   * [HTML & CSS](https://github.com/1-aquila-1/html-css)
-  * [React](https://github.com/1-aquila-1/react)
+  * [Next JS](https://github.com/1-aquila-1/nextjs)
 <!--te-->
 
 
