@@ -8,7 +8,7 @@
 
 
 - 🔭 Atualmente trabalho com Java, BPEL e Service Bus. Tecnologia ligada ao Oracle SOA Suite para construção de aplicação na Arquitetura Orientada a Serviços (SOA)
-- 🌱 Habilidade em contrução: Docker, kubernetes, Amazon EKS.
+- 🌱 Habilidade em contrução: Docker, kubernetes, AWS.
 <!--
 - Habilidades em construção: Python, Machine Learning e analise de dados
 -->
