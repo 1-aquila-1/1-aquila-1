@@ -4,41 +4,26 @@
 
 **Bem vindo** ao meu ✨repositório de projetos✨
 
-
-
-
-- 🔭 Atualmente trabalho com Java, BPEL e Service Bus. Tecnologia ligada ao Oracle SOA Suite para construção de aplicação na Arquitetura Orientada a Serviços (SOA)
-- 🌱 Habilidade em contrução: Docker, kubernetes, AWS.
 <!--
+- 🔭 Atualmente trabalho com Java. 
 - Habilidades em construção: Python, Machine Learning e analise de dados
 -->
-Tecnologia
+Back-end
 =================
 <!--ts-->
-  * [Java](#java)
+  * [Golang](https://github.com/1-aquila-1/golang)
+  * [Nodejs](https://github.com/1-aquila-1/nodejs)
   * [Spring Boot](https://github.com/1-aquila-1/spring-boot)
-  * [Kubernetes](https://github.com/1-aquila-1/kubernetes)
-  * [Apache Kafka](https://github.com/1-aquila-1/apache-kafka)
-  * [BPEL](#bpel)
-  * [Service Bus](https://github.com/1-aquila-1/service-bus)
+  * [Docker](https://github.com/1-aquila-1/docker)
+  * [Apache kafka](https://github.com/1-aquila-1/apache-kafka)
   * [SQL](https://github.com/1-aquila-1/sql)
 <!--te-->
 
-Fundamento de Front End
+Front-end
 =================
 <!--ts-->
-  * [HTML & CSS](https://github.com/1-aquila-1/html-css)
   * [Next JS](https://github.com/1-aquila-1/nextjs)
 <!--te-->
-
-
-  <!--* [Power BI](#power-bi)
-  * [Python](https://github.com/1-aquila-1/python)
-  * [OpenShift](https://github.com/1-aquila-1/openshift)
-  * [Marchine Learning](https://github.com/1-aquila-1/machine-learning)
-  * [Django REST framework](#django-rf)
-  -->
-
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
