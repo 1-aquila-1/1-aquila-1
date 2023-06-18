@@ -13,16 +13,10 @@ Back-end
 <!--ts-->
   * [Spring](https://github.com/1-aquila-1/spring.git)
   * [Golang](https://github.com/1-aquila-1/golang)
-  * [Nodejs](https://github.com/1-aquila-1/nodejs)
+  * [Next JS](https://github.com/1-aquila-1/nextjs)
   * [Docker](https://github.com/1-aquila-1/docker)
   * [Apache kafka](https://github.com/1-aquila-1/apache-kafka)
   * [SQL](https://github.com/1-aquila-1/sql)
-<!--te-->
-
-Front-end
-=================
-<!--ts-->
-  * [Next JS](https://github.com/1-aquila-1/nextjs)
 <!--te-->
 <!--
 - 👯 I’m looking to collaborate on ...
